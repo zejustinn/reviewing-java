@@ -1,0 +1,3 @@
+module modularAppCalc {
+    requires modularAppLogger;
+}
