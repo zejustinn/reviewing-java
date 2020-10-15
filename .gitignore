@@ -25,3 +25,9 @@ hs_err_pid*
 # idea files
 .idea/
 *.iml
+
+# Database configration
+*database.properties
+
+# Target files
+*/target/**
